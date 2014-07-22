@@ -15,6 +15,9 @@
     "exercises",
     "baudio"
   ],
+  "dependencies": {
+      "baudio": "2.1.2"
+  },
   "author": "Ionică Bizău <bizauionica@gmail.com>",
   "license": "MIT",
   "bugs": {

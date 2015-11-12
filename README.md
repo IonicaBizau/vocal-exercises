@@ -5,7 +5,7 @@ Some scripts for vocal exercises
 ## Installation
 
 ```sh
-$ npm i -g vocal-exercises
+$ npm i vocal-exercises
 ```
 
 ## Documentation

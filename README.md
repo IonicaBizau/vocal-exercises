@@ -1,24 +1,27 @@
-# vocal-exercises [![Support this project][donate-now]][paypal-donations]
 
-Some scripts for vocal exercises
+# vocal-exercises [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/vocal-exercises.svg)](https://www.npmjs.com/package/vocal-exercises) [![Downloads](https://img.shields.io/npm/dt/vocal-exercises.svg)](https://www.npmjs.com/package/vocal-exercises) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-## Installation
+> Some scripts for vocal exercises
+
+## :cloud: Installation
 
 ```sh
 $ npm i --save vocal-exercises
 ```
 
-## Documentation
+
+## :memo: Documentation
+
 
 ### baudio
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 

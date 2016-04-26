@@ -1,6 +1,6 @@
 {
   "name": "vocal-exercises",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Some scripts for vocal exercises",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/vocal-exercises/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/vocal-exercises"
+  "homepage": "https://github.com/IonicaBizau/vocal-exercises",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }

@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save vocal-exercises
+# Using npm
+npm install --save vocal-exercises
+
+# Using yarn
+yarn add vocal-exercises
 ```
 
 
